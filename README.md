@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ibrahimyondem
-- 👀 I’m interested in Programming  
-- 🌱 I’m currently learning Java, PHP, Javascript, MySQL, SQL
-- ⚡ Fun fact: Student
+- 👀 I’m interested in Programming!
+- 🌱 I’m studying Computer Programming and Data Analysis
 
 <!---
 ibrahimyondem/ibrahimyondem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
