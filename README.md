@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ibrahimyondem
-- 👀 I’m interested in Programming!
 - 🌱 I’m studying Computer Programming and Data Analysis
 
 <!---
